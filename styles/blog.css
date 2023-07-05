@@ -1,5 +1,6 @@
-div{
+.div{
     background-color: aquamarine;
     padding: 20px;
     margin: 20px;
+    color: blue;
 }
